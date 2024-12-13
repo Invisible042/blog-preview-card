@@ -38,6 +38,7 @@ body{
     box-shadow:5px 5px 8px black;
     width:80vw;
     height:70vh;
+    max-height: 450px;
 }
 .svg{
     width:86%;
