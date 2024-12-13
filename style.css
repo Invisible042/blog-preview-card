@@ -37,7 +37,7 @@ body{
     background-color:var(--white);
     box-shadow:5px 5px 8px black;
     width:80vw;
-    height:70%;
+    height:70vh;
 }
 .svg{
     width:86%;
